@@ -1,8 +1,8 @@
 # 📚 Course Enrollment System
 
 This is a "Spring Boot" project that allows students to enroll in courses offered by instructors. 
-It follows a RESTful API design and uses MySQL as the database.
-The project is built using Spring Tool Suite (STS) and tested using Postman.
+It provides RESTful APIs to add, update, and enroll students in courses using MySQL as the database.
+The project is built using Spring Tool Suite (STS) and tested by using Postman.
 
 
 # 🔧 Technologies Used
